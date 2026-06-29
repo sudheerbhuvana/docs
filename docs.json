@@ -31,7 +31,6 @@
         "pages": [
           "blog/index.mdx",
           "blog/welcome.mdx",
-          "blog/introducing-stackryze-domains.mdx",
           "blog/built-for-builders.mdx",
           "blog/protecting-the-namespace.mdx"
         ]
