@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mintlify Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#0f83d7",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -15,6 +15,25 @@
         "pages": [
           "index",
           "quickstart"
+        ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      "untitled-page",
+      {
+        "group": "Blog",
+        "icon": "newspaper",
+        "pages": [
+          "blog/index.mdx",
+          "blog/welcome.mdx",
+          "blog/introducing-stackryze-domains.mdx",
+          "blog/built-for-builders.mdx",
+          "blog/protecting-the-namespace.mdx"
         ]
       }
     ],
